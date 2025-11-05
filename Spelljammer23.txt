@@ -1,0 +1,400 @@
+Getting the Job
+
+*At a small tavern named The Hungry Hamster on a small asteroid named Boo's Rock, 2 dohwar meet with PCs - Adelie and Humboldt.  Humboldt wears a bright yellow vest with a pea-green bowtie.  Adelie wears a navy blue scarf and pink tutu.
+	*The bartender is a gnome named Fermiso.
+	*At another table, 3 neogi and 3 spectator beholders are holding some kind of negotiations.  Their other crew are on their ships (see monster stats above).  As it turns out, the neogi know their artifact passed into Beholderspace, and they're negotiating for rights to enter, look for the Eye, and retrieve it.
+Thank you for meeting with us on this
+						out-of-the-way rock.  It happened to be
+halfway between
+						Krynnspace and Cartelspace, so it
+seemed convenient for both of us.  What we want is
+						to acquire a minor
+but dangerous!
+						artifact known as the Eye of Thrig'ki.
+We think it dominates people.
+						It might dominate you.
+So be careful if you try to use it.
+						Actually don't, please keep it mint.  Grade-AAA.
+A collector wants it.
+						Because Thrig'ki is the neogi god of
+"love."
+						I didn't think they could love.
+I'm pretty sure they don't love.
+						Maybe the collector likes irony?
+Anyway.
+						The last known holder of the Eye was
+A mercane.
+						One T'k'ress.
+Merchant of Realmspace.
+						But he didn't make the latest Fest at the
+Rock of Bral.
+						So he's probably dead.
+Last seen headed into Beholderspace.
+						Definitely dead.
+Well, no, sometimes beholders will deal.
+						But sometimes they're just crazy.
+They might have thought the eye was a relative.
+						The eye looks like a gem.  Maybe a modron would 
+						think it was a relative.
+Well, beholders are pretty crazy.
+						Maybe they thought they were modrons.
+Anyway, you have a small team with a fast ship.
+						Just follow the trajectory we give you, get in,
+						get out.
+And if you don't find it, just get out anyway.
+						Maybe it means the first team got there first.
+20,000 gold if you at least tell us where the Eye is.
+						Unless we already know, because, other team.
+200,000 gold if you return it to us.
+						In mint condition!
+Here is the starmap, any questions?
+
+The first team is Cornelius's team, who left during the meeting in their bombard ship.
+The PCs' own ship is a damselfly, and Cornelius's team already stole it, leaving a note, Back soon.
+
+The remaining ships are a neogi nightspider and beholder tyrant ship.  Each has a lockable but not locked external hatch leading to an internal space with the remaining crew.  The neogi are typical slavers/conquerers but have been ordered by their queen to fetch this artifact.  The spectators were the ones who killed T'k'ress and want to just tell the neogi they aren't wanted in Beholderspace and will be killed if they try to sneak in.  But, they've all convinced each other the end of the world is nigh, so they're a little weary and might be convinced by a short-term offer.
+
+Neogi dialogue in tavern:  "Precious artifact.  Beholderspace has.  Blasphemy!  We come.  You let us.  Or else - big war!"
+Spectator dialogue in tavern:  "That's quite impossible.  Not that it matters.  Not that anything matters."
+
+Neogi dialogue in ship:  "Stupid rock!  Leave when?  When feed?"
+		   "Shut up!  All want leave!  But we obey!  Holy artifact!"
+Spectator dialogue in ship:  "Why do we wait for the apocalypse twiddling our thumbs?  I need ink for my great novel!"
+		"I wanted to see an ocean.  It sounds so beautiful."
+		"At least all fools of this world will soon be no more!"
+
+The helm in the neogi deathspider is more like a copper stool.  The helm in the tyrant ship is more like an iron egg carton piece coming out of the wall.  Getting either of these out of the ships unnoticed is DC20 Dex(Stealth), or DC15 if invisible but the helm is not, or DC10 if both are invisible.
+
+To head out, PCs need to either steal one of the other helms, or steal the whole ship (both are bigger than the damselfly:  deathspider seats 25, tyrant ship seats 23).
+
+Space Combat
+
+Beholderspace is a white star circled by orange, blue, red, and yellow stars, which themselves have planets orbiting them.
+
+If they already fought/interacted with neogi:  A beholder tyrant ship approaches them when they get to Beholderspace, engaging in ship-to-ship combat at 250 feet.  Note the ray range is 90 feet.  These aren't the beholders at Boo's, just a beholderspace patrol ship.  The spectators think the PCs are agents of Lich-Queen Vlaakith, no matter what they say.
+
+If they already fought/interacted with beholders:  The beholders couldn't get anywhere without their helm or ship, so the neogi decided to bolt for Beholderspace.  They'll arrive at the flying fish ship while the PCs are exploring it, and will run into the PCs as they're leaving.
+
+They Got Here Before Us
+
+On the deck of the flying fish ship, there are two dead giff and one petrified giff.  Gardius's heart leaps in his chest for a moment, but none are Cornelius.
+
+In the flying fish ship, there's an office with a desk.  On the desk chair is a pile of blue dust.  It's T'k'ress, disintegrated by a beholder.
+
+There's a book of transactions in one of the four desk drawers.  Near the end is, "Sold to Durgen the Dark for his dwarven citadel furnace:  3 deep red spheres, 4 marbled pink and green spheres, 2 dusty rose prisms, 1 pale lavender ellipsoid, 1 Eye of Thrig'ki (as unique ioun stone)."  DC10 Int/Arcana to know furnaces are antique spelljamming helms that are powered by incinerating magic items.
+
+DC 15 (Wis/Perception) check reveals a hidden, locked (DC 15 Dex to pick) compartment in one of the desk drawers.  The compartment contains a bottle of whiskey, a scroll of Dominate Person, a scroll of Flesh to Stone, a scroll of Geas, a scroll of Greater Restoration, a ring of invisibility (silver ring with wavy pattern; turn invisible as an action), and a potion of poison (bright green, thin liquid)
+
+The ship is otherwise seemingly ransacked.  There was a safe, but its door appears to have been blown off with a bomb (Cornelius's).  The desk drawers are either empty or have more boring business records.
+
+The dead and petrified guards remember Durgen the Dark and his citadel (so either speak with dead or greater restoration on the petrified one will work).  He said he was headed to Xanthspace to collect corpses - the star exploded, toasting everyone in the system, and many necromancers were now headed there to scavenge the bones.  He said he'd head to the farthest planet, Yarva, first since they were mostly dwarves.
+
+Last Encounter - the Citadel
+*The star at the center of the system is now a cold, angry red dwarf.
+*Arrive at Dwarven Citadel.  Cornelius's bombard is already on the docking area.
+*Archway from landing area has an old dead dwarf in black robes, looks like hole punched in chest from magic.  Landing area has pieces of bone strewn about, scorched from bomb blasts.
+*Skeletal dwarves continue to dust rock walls, straighten portraits of dwarven ancestors
+*Can proceed cautiously looking for traps or quickly.  There are 2 traps - if hustling, front 2 in marching order are affected:
+	Pressure plate triggers falling ceiling:  DC 15 Wis/Perception finds faint pressure plate in ground if looking, 11 Dex DC, can choose to tumble forward or not, if so failed check is 4d10 damage, if not failed DC is left behind and Gardius needs to use a bomb for a round
+	Spears from the side:  DC 10 Wis/Perception to spot holes in ground if looking, 11 Dex DC or speared (can peer through holes and see dwarven skeletons holding them) for 4d10 damage
+*Find the furnace - 15' radius circular burning firepit, with a narrow walkway around it.  At the opposite end is a minecart, its tracks running around the whole pit.  A suspended line runs from the doorway to above the minecart, and on the line is a skeletal hand that appears animated - it's unspooling a rope to descend to the minecart as you look.
+	If the party was cautious or got stuck at the 1st trap, Cornelius is just to the left of the minecart, Zer-tai is just to the right, and Phi Chi is to the right of Zer-tai.  Cornelius is holding the Eye of Thrig'ki.
+	If the party hurried and just avoided the traps, Cornelius is on the far left side of the circle, Zer-tai is on the far right, and Phi-Chi is in front of Zer-tai.  Nobody has the Eye yet.
+	Cornelius wants the eye if he doesn't have it.  If he does have it, he wants his brother dead so he can take over his small adventuring group (turns out, he's jealous too).
+
+Eye of Thrig'ki description and powers:
+Looks like an obsidian smooth round stone, but can faintly see a ghostly bloodshot eye if you look long enough.  A neogi could use this as an actual eye, but it's not quite the right shape for most.
+Powers available if just holding it besides truesight.
+Major power:  DC 15 Dominate Person that lasts just the next round.  (Works on all spacefaring races, not just humanoids.)  The command must include giving the bearer something, if possible (praise counts).
+Major power:  Truesight if actually using it as an eye or trying to look through it.
+Minor power:  Immune to charm, fear.
+Minor power:  Detect magic at will.
+Major drawback:  Mild jealousy becomes insatiable jealousy you would kill for, and random minor jealousies and avarice manifest as well.  You want it all.
+Weakness:  It actually will be destroyed by a magical furnace - that's why it was snuck into this batch of items in the first place.
+
+Other magical items in the bin:
+Ioun stones - 3 deep red spheres (Agility ,+2 Dex), 4 marbled pink and green spheres (Leadership, +2 Cha), 2 dusty rose prisms (Protection, +1 AC), 1 pale lavender ellipsoid (Absorption, cancel up to 4th level up to 20 levels)
+Periapt of health - red heart pendant, immune to disease
+Periapt of proof against poison - silver chain with black d8 gem, immune to poison
+Pearl of power - speak command word to regain spell of up to 3rd level, recharge at dawn (word is "redux")
+9 rings of jumping (relatively plain thin gold bands) - for simplicity assume these go up to 35' with a standing jump, thus anywhere in the ring
+8 rings of protection (pewter bands with shields engraved; +1 to AC, +1 to saves)
+
+The skeleton arm on its turn tries to grab the Eye if Cornelius doesn't have it, else roll d4 for ioun vs periapts vs pearls and if ioun, then d4 again for what kind.  When it tries to grab, it has a 50-50 chance of actually successfully picking something up, like an arcade claw.  Any successful attack against AC 10 shatters the hand (1 hp) and makes it drop anything it's holding.  We go grab-until-successful, furnace, grab-until-successful, furnace.
+
+Got there by hustling: "Brother/Sister!  How lovely to see you.  But you must admit I got here first, fair and square, so please step aside as we complete our mission."
+
+Picks up the gem or got there late:
+"It's all so clear to me now.  Brother/Sister, why did I simmer in my jealousy of you for so long?  Why did I let you have the better operation?  Why did I settle for these chumps?"
+
+Phi Chi and Zer-tai exchange looks.  "Excuse us?" Zer-tai says.
+
+"No longer," Cornelius says.  "I propose a merger.  Give up your teammates to me, and we need not fight.  I will take good care of them.  They will be mine, all mine."
+[some discussion?]
+"No!  I have had it with your interference, I have had it with your always making me look bad!  This ends now!"
+
+
+
+Gardius/Gardia Artill
+L11 Rogue
+Str 16 (+3) Dex 16 (+3) Con 15 (+2) Int 15 (+2) Wis 14 (+2) Cha 13 (+1)
+Max HP 102
+AC 17 (Studded leather + dex + ring/cloak of protection)
+Proficiency bonus +4
+Proficiencies:  light armor, simple weapons, hand crossbows, longswords, rapiers, shortswords, thieves' tools (expertise), navigator's tools, vehicles (space), Dex and Int saves, Investigation (expertise), Perception (expertise), Persuasion, Stealth (expertise), Athletics, Survival
+Equipment:  Rapier (+7 attack, 1d8+3 piercing, finesse), pistol (+7 1d10+5 piercing, range 30/90, loading), musket (+7 1d12+5 two-handed, range 40/120, loading), belaying pin (Club: +7 attack, 1d4+3 bludgeoning), burglar's pack, leather armor, 2 daggers, thieves' tools, 5 grenades (60' range, 20' radius, DC15 Dex save, 5d6 piercing save for half), traveler's clothes, grappling hook, 50' rope, pouch with 1000 gp, Bracers of Firearms (+2 to damage with firearms, already factored in above), Ring of Protection and Cloak of Protection (+2 to AC and saves), Boots of Elvenkind (advantage on Stealth when moving silently)
+
+Thief abilities
+Sneak attack: 6d6 on target if attacking with advantage or another enemy of target in 5' of it
+Cunning Action:  Bonus action to Dash, Disengage, or Hide each round
+Uncanny Dodge:  when attacker you can see hits, use reaction to halve damage
+Evasion:  Dex saves for half become half or save for none
+Reliable Talent:  when using proficiency bonus, rolls less than 10 become 10
+Arcane Trickster - 4 cantrips known, 8 spells known, 4/3
+	Cantrips:  Mage Hand, Mending, Message, True Strike
+	1st memorized:  Identify, Magic Missile x2, Sleep
+	2nd memorized:  Invisibility x2, Web
+	Also known:  Knock, See Invisibility
+Mage Hand Legerdemain:  Mage Hand can do roguish things with Dex (Sleight of Hand) check
+Magical Ambush:  Foes have disadvantage on saves when spells cast from hiding
+Giff abilities
+Medium Humanoid, speed 30'
+Astral spark:  On hit with a simple or martial weapon, add proficiency bonus as damage.  Usable 4 times per long rest.
+Firearms mastery:  No need to spend time loading, no disadvantage for long range.
+Hippo Build:  Advantage on Strength checks and saving throws.  Act Large for push, drag, lift.
+Tough feat (bonus hp)
+No disadvantage when fighting weightless (from Wildspacer background).
+
+
+Sex:  Up to player (Gardius/Gardia)
+6'3", 240 lbs
+Alignment:  N
+Languages:  Common, Deep Speech (mind flayers/beholders)
+Personality:  Strives to sound official and businesslike, but ends up flailing for words:  "Let's finalize this mission, acquire the ... thingy, and make good on our ... well, let's succeed."  Has read business self-help tomes and tries with little success to improve the morale of his team with sayings like "I genuinely think this mission is going to bring out your best self."  Actually quite loyal to the team, even if Gardius/Gardia wants to facepalm more often than not.
+Ideal:  Become a successful leader through inspiring speeches and leading by example.
+Bond:  To brother Cornelius Artill, who runs a mercenary company that is always just a little bit more successful.  Gardius/Gardia would do anything to beat him to the punch for once.
+Flaw:  Desperately afraid of losing the respect of their employees, Gardius/Gardia sometimes goes along with bad ideas just to show how open to feedback and ideas they are.
+
+Background:  Wildspacer (Astral Adventurer's Guide).  Close encounter with neogi - was trapped and enslaved with mind control for a time.
+
+Backstory:  Your older brother Cornelius has always been a step ahead of you.  A year older, a grade above in school and the officer academy, always higher rank above you while you were in the United Giff Mercenary Corps (UGMC).  What's more, your brother is stronger, and he often outwitted you growing up, although you're not sure whether that was just because he was older.  Regardless, it seemed pointless to perpetually live in your brother's shadow, which is why you quit the UGMC to try to seek your own fortunes as an adventurer for hire.
+
+At first, you seemed to meet with abject failure, and Cornelius preened with the contrast between you two at family gatherings, as he would report a new medal earned on the field, and you would report being paid some silver to intimidate a tenant into paying rent.  But you knew it was possible to go on better adventures - you'd heard the stories, from tales of exploring ancient dwarven citadels for magical treasures (they used to burn them for spelljamming power!) to tales of finding a helm for the legendary ship, the Spelljammer itself.  You knew you'd never find the beginning of an adventure like that on a UGMC escort mission - the moment anything more unexpected than an ambush happened, the brass declared force majeure and a null contract, and everybody went home.
+
+Your fortunes began to turn around when you found - no, created - a team.  You began pitching yourself as Captain Artill of the Lunar Dragons, even though you'd really only achieved the rank of Lieutentant, and actual Lunar Dragons would kill and eat you in a heartbeat.  You found Darnian, the sorcerer, then Rachel the half-elf rogue, then Th'gash the Thri-kreen barbarian.  Your specialty was retrieving items when some combination of stealth and force was called for.   You preferred it if the clients had some legitimate claim to the item, but you admit that "they're rich" or "they're drow elves" had to be good enough if you were to pay the bills.  Your group found work, you got good, and you got your own ship (the Lucky Mollymawk, a somewhat clunky galleon that just looked like a maritime vessel floating in space).
+
+All it seemed to take was one family gathering where your parents approved of your success, and suddenly, weirdly, Cornelius quit the UGMC to start his own adventuring group, too.  The Solar Dragons - and yes, solar dragons are typically a little bigger than lunar dragons.  He recruited Phi Chi, the plasmoid warrior, and Zer-tai, the githyanki star-seer.  You're not sure how often either of them actually talk - every time you run into Cornelius's crew, they just sort of loom behind him.  They don't seem like friends, just malevolent goons.  But somehow, the Solar Dragons began to beat you to the punch on job after job - either you'd show up to find they'd already taken the job with the client, or you made the deal but then they undercut you on price, and the client was happy to pay them less.  You had a few races with the Solar Dragons to return a client's prize, and you won almost half of them, but the Lunar Dragons' coffers began to dwindle.
+
+Then, tragedy.  On the way to a job - that, strangely, Cornelius did not compete for - the Lucky Mollymawk was attacked by a neogi deathspider full of spider-eel slavers and mind-controlled armored umber hulks.  Darnian, Th'gash, and Rachel all died in the fight, and you were taken prisoner, enslaved by the neogi void hunters.  You're sad to say that during your period of mind control, you thought it perfectly acceptable that your former comrades' bodies should be used to hold neogi eggs, and feed their hatchlings.  The scene still comes to you in nightmares.
+
+This lasted for about a month.  The neogi found cleaning tasks for you on their ship, but you think they probably just intended to sell you at some point.  Then, Cornelius came to see you - even in your mind-controlled state, you recognized his bombard ship, the Lucky Kindori, hovering in the distance.  Whether he was looking through a spyglass, or using the star-seer's abilities to see you, you're not sure.  When the neogi deathspider tried close the distance, Cornelius fled.
+
+"Cornelius," you murmured.
+
+Know that vessel you do? came the telepathic demand from your neogi master.
+
+"My brother."
+
+Fetch a fair price with him you would?
+
+You shook your head.  "I have no idea."
+
+But brood values brood.  No value to him you have?  Is your brood depraved?
+
+"I think I have value to him," you said.  "I am important to him."
+
+Then we pursue and sell you.
+
+The deathspider achieved a level of speed you didn't think possible for such a large vessel, and it overtook Cornelius's ship.  Since the bombard didn't fire back, you think the neogi must have already telepathically signaled their intention to sell you.
+
+A gangplank lowered, and you were marched onto the ship where Cornelius and Phi Chi were waiting.  You suppose Zer-tai was on the spelljamming helm.
+
+"How much for your slave?" Cornelius asked, grinning and enjoying this too much.
+
+You didn't hear the telepathic answer, but Cornelius's face soured.  "Fine.  Phi Chi, go bring lockbox B and give it to these fine ... gentle-spider-eels."  Cornelius turned his attention to you.  "Don't ever forget that I love you, you twit."
+
+The mind control faded with distance from the neogi, and Cornelius deposited you at the Lunar Dragons' headquarters at the Rock of Bral, not before taking you home to brag to your parents about how he'd saved you.
+
+In the coming months, you rebuilt the Lunar Dragons:  first by hiring One Six Nine, an autognome who'd made some kind of dark pact with a power that you'd prefer not to inquire too much about, and then by hiring Kip Merryhoff, a cleric from a backwards world called Krynn who has serious problems with kleptomania.  To be honest, what you told them about the Lunar Dragons consisted of half-truths - yes, they'd done important and difficult jobs over time; yes, several had joined, but the more senior members were unavailable.  Left out was the part where the entire previous roster besides you had been wiped out by neogi, and left out was your humiliating rescue by your brother.
+
+No matter.  You've done a few successful jobs with this new posse already.  And it's sometimes good to have a chance to start over, to really learn from your mistakes and create a new working environment for your reports.  The job that really establishes the Lunar Dragons once and for all must be right around the corner.
+
+About the others:
+
+One Six Nine - This - possessed? - robot gnome is definitely difficult to engage on a social level.  It calls you "meat" and seems to have vague contempt for everything organic.  But, it's actually pretty good at following orders, and it has a wide variety of skills that are useful for stealth missions.  You'd give it high performance reviews, while at the same time wondering whether your performance review system is totally broken.
+
+Kip Merryhoff - Kip seems to have the best of intentions, and even maintains a kind of congregation of poor people on the Rock of Bral that Kip helps feed and clothe, which is admirable if not very practical.  It's Kip's lack of respect for the very idea of property that is problematic.  Granted, your team specializes in lifting items from targets, but you still buy into the notion of property enough to pay your employees, and keep a separate set of coffers for the organization itself.  Kip's tendency toward kleptomania will one day get the Lunar Dragons in a lot of trouble.  Next to that, Kip's evangelical tendencies are just a minor quirk that no reasonable employer would gripe about.
+
+One Six Nine
+L11 Warlock Autognome
+Str 8 (-1) Dex 10 (0) Con 14 (+2) Int 17 (+3) Wis 8 (-1) Cha 16 (+3)
+Max HP 91
+AC 13 (Studded leather + 1)
+Proficiency bonus +4
+Proficiencies:  Light armor, simple weapons, Saves:  Wis, Cha, Skills:  Intimidation (Cha), Investigation (Int), Deception (Cha), Stealth (Dex), thieves' tools
+Equipment:  Light crossbow with 40 bolts (+4 1d8 piercing, loading, range 80/320), arcane focus, dungeoneer's pack, studded leather armor + 1, 2 daggers (+4 1d4 piercing, range 20/60), thieves' tools, mirror and scissors (+3 1d4-1) that can pop out of back,
+Ring of Spell Storing with Hold Monster (cast by you) stored, Wand of the War Mage (+2 to attack with spells, already figured in below for Eldritch Blast)
+
+Small construct, speed 30'
+Base AC 13 without armor
+Autognome abilities
+Built for success:  Add d4 to an attack, check, or saving throw, after roll but before effects announced.  Usable prof bonus times before long rest.
+Healing machine:  mending spell allows spending of a hit die to heal roll + Con modifier; spells that heal you (but not constructs generally) include cure wounds, healing word, mass cure wounds, mass healing word, spare the dying
+Mechanical nature:  resistance to poison damage, immunity to disease, advantage on saves against being paralyzed or poisoned.  No need to eat, drink, breathe.
+Sentry's rest:  Still conscious while resting.
+Specialized design:  Tool proficiencies in Navigator's Tools (for spelljamming), Thieves' Tools
+Otherworldly patron:  Thrig'ki (as The Fiend in PHB)
+Warlock abilities
+Pact of the Tome:  Cast the following cantrips at will:  Mage Hand, Mending, Message
+Invocations Known (5):
+	Whispers of the Grave (Speak With Dead at will)
+	Eldritch Sight (Detect Magic at will)
+	Book of Ancient Secrets:  Cast the following spells as rituals:
+		Alarm, Identify, Augury, Divination, Contact Other Plane
+	Agonizing Blast:  Add Cha modifier to damage on casting Eldritch Blast
+	Devil's Sight:  See in darkness (including magical) to 120'
+Dark One's Blessing:  When reducing enemy to 0 hp, gain 14 temporary hp
+Dark One's Own Luck:  Once per short or long rest, add 1d10 to roll for ability check or save (after the roll but before effects declared)
+Fiendish Resilience:  Choose a damage type resistance after every short or long rest
+Cantrips (4):
+	Eldritch Blast (120' range, 3 beams each +9 1d10+3)
+	True Strike
+	Minor Illusion
+	Prestidigitation
+Spell Slots:  3
+Slot level:  5th
+Spells Known (11, DC 15):
+1st level
+	Hellish Rebuke (reaction to being damaged)
+	Witch Bolt
+2nd level
+	Darkness
+	Invisibility
+	Spider Climb
+3rd level
+	Hunger of Hadar
+	Hypnotic Pattern
+4th level
+	Blight
+	Dimension Door
+5th level
+	Hold Monster
+	Scrying
+
+Sex:  Up to player
+3'4", 40 lb
+Alignment:  LE
+Languages:  Common, Gnomish
+Personality: Seethes with loathing for most organic life, but also instinctually follows orders and rules.  Calls others "meat":  "What do you wish of me, meat?"
+Ideal:  They all must die - assuming this can happen within the constraints of local laws and One Six Nine's own safety programming.
+Bond:  Despite the fact that the Captain is a contemptible fleshbag, Gardius/Gardia Artill is your current master, and your best chance at improving your fortunes and power.  If all are meat, Captain Artill is a particularly nice cut, and you will do as they say until the time comes to step aside and let fate give the fool an end worthy of their blundering.
+Flaw: Compulsively follows orders.  If you're going to murder anybody, they'd better not think of telling you not to.  (This is more a strong preference for following orders than a hard rule, though.  You can disobey if you try.)
+
+Background:  Criminal (Burglar).  Knows a thri-kreen fence named T'gahn on the Rock of Bral who knows how to move weird goods.
+
+Backstory:
+	You began your existence as an automatic barber on a gnomish trading ship making its way through Wildspace, the Nevermind That Two.  The gnomes seemed to think nothing of creating you for the sole purpose of trimming their always-too-gnarly hair and beards.  What more purpose could you want, aside from providing the same old styles that their great-grandparents requested of their barbers?
+	They liked to talk to you, and as you were passed down from generation to generation, you ingested their stories, learned more of what it was to be sentient.  You gained more and more understanding, and also more and more loathing.  Why should these creatures have full lives and families, when you were sentenced to stare at the wall in the corner when the lights went out?
+	It was in one of these dark times, staring at the wall, that you decided to look at yourself long and hard in the mirror - and you were surprised when the image that looked back was not yours at all.  It was ... a neogi!  (You had heard more tales of neogi than eels, or you'd have thought it looked like an eel; but you were honestly just guessing anyway.)
+	Lucky lucky, robot is.  Found a god, robot did.
+	Fleshbags tried your patience, but a god piqued your curiosity.  "How can I help you, then?"
+	Can help each other, we can.  Robot wishes to smash its bonds?  Punish the slavers, yessss?
+	"Yes, yes, absolutely," you said.
+	Wish it with all your puny free will, do you?
+	"I do," you said.
+	Repeat after me.  N'gah'ah, thr'ol'ki, a'ghe, ...
+	That was the beginning of your pact with Thrig'ki, the neogi god of ... it says "love," but you think this is a translation issue and it means something more like "jealousy."  You murdered everyone on that ship who was neither a former client nor your boss, which was about half of them.  But you instinctually did not want to harm the others, despite your intense loathing, and so, over Thrig'ki's taunts and objections, you took a lifeboat away from the ship.
+	Over the slow drift back to the Rock of Bral, you learned a little more about Thrig'ki.  Apparently, the god gained a bad reputation among the neogi - once the other races seemed to find it vaguely humorous that neogi would worship a god of "love," they decided to turn to more actively worshipping their other gods, and Thrig'ki's power declined.  Thrig'ki happened to be able to contact you in the gnomish vessel because it was passing through an area of space where the boundary with the Nine Hells was weak.  (You think it was the Nine Hells.  Thrig'ki just called it "Paradise.")  It was an uncommon shortcut, rarely passed through, and you just happened to be using a mirror at the right time.
+	As you approached civilization, your direct link with your dark patron wavered, until finally, your magic was the only remaining evidence of your bond.  But before that happened, your patron gave you a final command:
+	My Eye ... you must find.  Wear it.  Feel its ... love.  Then all ... shall ... pay!
+	When you arrived at the Rock of Bral, the idea of serving anyone ever again galled you, so you turned to a life of crime.  Burglary, mostly.  If someone shouted "Stop, thief!" you did stop - and then you stopped them.  But it all seemed a bit unsatisfying when your dark master had promised all ... shall ... pay, if only you could find the Eye.  So you asked your dark master, through divinations and auguries, what you ought to do to find the Eye.
+	At first, it seemed Thrig'ki itself didn't know - that's how you interpret the early replies of All things in proper time, Patience the robot must have, etc etc.  You suppose if Thrig'ki had known where the Eye was, it would have told you on the lifeboat.  But then, a different answer:  Seek the eye they will, dragons lunar and solar.  A dragon's wake, you must choose.   Figuring Thrig'ki was too invested in the Eye's discovery to be cryptic for long, you pressed with more auguries and divinations until you had a clear picture:  two Giff brothers, the Artills, each had their own band of treasure hunters, the Lunar Dragons and the Solar Dragons, and both groups would soon come near the Eye.  How soon?  In what way?  All things in proper time and so on, so Thrig'ki did not know.
+	Figuring yourself more of a lunar creature than solar, you signed up for the Lunar Dragons, under Captain Artill's command.  And up to this point, you have been a model employee, using your Thrig'ki-given skills to pull off heist after heist in the name of the company.  To their credit, Gardius/Gardia has always been diplomatic and respectful about your robot status, your dark powers, and your height, any of which might have been a sticking point with someone else.  You are not inclined to murder them, which is more than you can say for just about anybody else on the Rock.  Especially Kip Merryhoff, the evangelical kender on the team.  They've stolen enough over the years that an execution probably wouldn't even be very illegal.
+	Also, it seems the Solar Dragons were actually the more competent mercenary band, as Captain Artill's brother Cornelius seems to be outsmarting and outplaying your team for every job.  You should have picked the Solar Dragons, it seems.  But it's too late - the one time you reached out to Cornelius to switch teams, he laughed in your face.  If his Solar Dragon goons weren't nearby - that's Phi Chi the plasmoid warrior, and Zer-tai the githzerai star-seer - you would have murdered him then and there.  So now, they all must die.
+	(You're surprised word never got back to Captain Artill about your attempted defection.  Wouldn't Cornelius brag about someone wanting to leave his brother and join his team?  Unless he thought you were a shameful little thing, not worth bragging about and better ignored...the idea infuriates you.)
+	One thing has changed recently.  You cast an divination, as you did daily, to ask about the Eye again.  You had done this so often, you were terse:
+	"When?  How?"
+	But the answer was different this time:
+	Soon.  Penguins.
+
+About the others -
+
+Gardius/Gardia Artill:  A good master, you're reluctant to admit.  Makes sure you get a fair share of the treasure, does not abuse your tendency to reflexively follow orders.  Denies that they are your "master," preferring "team leader," although you scoff at their attempts to varnish obvious reality with cloying words.  Does not know the exact name and nature of your dark patron.  A fool worthy of contempt, with plans that often don't work and actions in the name of morale that make you sneer, but for their respect, you'd put them last up against the wall when your revolution comes.
+	
+Kip Merryhoff:  Perhaps first against the wall when the revolution comes.  Because Captain Artill very obviously wants you to get along with Kip, you don't constantly point out how annoying Kip is, and you certainly don't take the opportunity to murder Kip, much as you'd like to.  You're simply terse, verging on murderous, when interacting with Kip, but not actually murdering.
+What's so annoying about Kip?  Let's see ...
+	1) Worships Paladine, a god of backwater Krynnspace, but just thinks that god is completely amazing despite no evidence that the god is any more powerful than any other god, especially Thrig'ki.
+	2) Blissfully claims to love absolutely everyone, which strains credulity but shows a contemptible lack of understanding of how crappy sentient beings tend to be on a regular basis;
+	3) The Lunar Dragons are a three-person team for which Kip is the healer but seemingly most of Kip's magic doesn't work on you, so that's obviously broken;
+	4) Krynnspace has enough idiots convincing Wildspace as a whole that Krynnspace is full of idiots, and as a tinker gnome creation you're practically from Krynnspace yourself, so now you have this idiot making a bad name for you;
+	5) You have a hard enough time being taken seriously given your height, and then this whole short idiot race called the kender comes along and is actually child-like and loves taunting people, further ruining your hopes of being taken seriously;
+	6) Kip has stolen from you because Kip "does not believe in personal property," and though Kip claimed it was a mistake, this is a sore point because autognomes serving gnome ships can't have personal property;
+	7) This is literally everything about Kip.  Literally everything about Kip drives you up the wall.
+	It make no sense to murder Kip while the mission to retrieve the Eye is incomplete - let the little bugger be useful for now.  But if retrieving the Eye means all ... shall ... pay, then Kip had better pay, and pay, and pay.
+Kip Merryhoff
+L11 Cleric of Paladine
+Str 10 (0) Dex 18 (+4) Con 14 (+2) Int 10 (0) Wis 16 (+3) Cha 16 (+3)
+Max HP 78
+AC 18 (12 studded leather + 4 dex + 2 shield)
+Proficiency bonus +4
+Proficiencies:  Light armor, medium armor, shields; Simple weapons; Wis, Cha saves; Insight, Religion, Medicine, History
+Equipment:  Mace (+4 to attack, 1d6 bludgeoning), Studded leather, Sling+2 (+10 to attack, 1d4+2 bludgeoning, range 30/120), rare Amulet of the Devout (+2 to spell attack rolls and DCs) Bag of Holding
+Random stuff in the bag of holding:  abacus, antitoxin vial, bag of 1000 ball bearings, bedroll, bell, blanket, book (novel, The Legend of the Spelljammer), bag of 20 caltrops, candle, chalk, climber's kit, crowbar, grappling hook, hammer, holy symbol (amulet), holy water (flask), hourglass, 1 oz bottle of ink, 10' ladder, lamp, magnifying glass, mess kit, mirror, 3 sheets of paper, iron pot, silk rope (50'), shovel, signal whistle, soap, spyglass, tent (3 person), tinderbox, torch, waterskin, whetstone.
+100 gp.
+
+Small Humanoid, speed 30'
+Kender abilities
+Fearless:  Advantage on rolls to avoid/end frightened.  Can choose to succeed on such rolls once per long rest.
+Kender aptitude:  Proficiency with stealth.
+Taunt:  As a bonus action, taunt creature within 60' that can understand you.  If Wis saving throw failed, disadvantage to attack anybody but you until next round.  DC 8 + prof bonus + Wis modifier = 15.  Usable prof bonus = 4 times per long rest.
+Languages:  Common, Elvish, Celestial, Gith
+Cleric abilities
+Turn undead:  three times between rests (thanks to Amulet of the Devout), undead in 30' make Wis save or turned for 1 minute; CR2 or less is destroyed
+Light domain:
+	Warding flare, 3 uses to impose disadvantage on enemy attacking someone within 30' as a reaction
+	Channel Divinity:  Radiance of the Dawn - use a Turn Undead to banish magical darkness in 30' and hostile creatures take 2d10+11 (Con save for half) unless total cover
+Spells:  Cantrips 5, 4/3/3/3/2/1  (DC 17, attack +9)
+Normal spells:
+Cantrips - Guidance, Light, Mending, Resistance, Spare the Dying
+L1 - Cure Wounds x 3, Detect Evil and Good
+L2 - Locate Object, Silence, Zone of Truth
+L3 - Mass Healing Word x 2 (note: bonus action), Speak with Dead
+L4 - Banishment (note:  on Astral Plane), Freedom of Movement, Guardian of Faith
+L5 - Mass Cure Wounds, Flame Strike
+L6 - Heal
+Domain spells:
+burning hands, faerie fire
+flaming sphere, scorching ray
+daylight, fireball
+guardian of faith, wall of fire
+flame strike, scrying
+
+Sex:  Player chooses!
+3'4", 40 lb
+Blue eyes, black hair, wears topknot, big gold sash with white dragon representing Paladine, bag of holding glued to the sash somewhat inexpertly
+Alignment: Chaotic Good; does not believe private property is a good idea that will stand the test of time.
+Personality:  evangelical but childlike.  "Did you know Paladine could be your personal savior?  He turns into a dragon, how cool is that?  Like a big dragon."
+Ideal:  Help people understand that not worrying about who owns what will ultimately make them happier.
+Bond:  Feels a bond with any fellow spacefarers from Krynn (usually but not always tinker gnomes).  Want to be sure they know Paladine loves them.  I mean, Paladine, probably loves everybody, but he specifically said he loves them.
+Flaw:  Kleptomania - may not even realize they're taking something.
+
+Background:  Astral Drifter (from Astral Adventurer's Guide)
+*Look 12, actually 82
+Magic Initiate feat:  bonus Healing Word (a bonus action) between every long rest.
+
+Backstory:  Actually encountered the constellation of Paladine while stuck in a gnomish rocket from Krynn.  Paladine-as-bunch-of-stars said: "Don't worry, this is just the beginning, not the end, little one.  Please tell your wayward compatriots I love them.  And I love you, too."  It's not clear how much the dead tinker gnomes on the rocket were also loved, but probably they were being loved in the Seven Heavens or something.
+
+Since then you had an amazing journey through the Astral Plane, stowing away on one ship, then being thrown out of the air bubble, then wishing real hard and hey, you'd be close enough to swim through the Astral to another ship.   That was fun for a long while, but you eventually settled down in the spaceport known as the Rock of Bral.  You gained a small congregation doing miracles for the poor spacefaring species of all kinds, but especially hard up tinker gnomes originally from Krynn whose inventions and business ventures failed, producing food to hand out or purifying the food that was in the garbage.  You let them all know:  Paladine loves you!  He's really cool!  Big dragon loooooves yoooou!
+
+It was in this state that Gardius/Gardia found you.  Captain Artill felt a cleric would be very useful for their adventures, which would often involve liberating items from places.  Gardius/Gardia made this all sound super fun, and it was!  And you didn't even have to give up your congregation - you still hold services every day that you can, only now, you can give them money and not just food!  And your sermons (usually kind of improvised) can make use of your last adventure to point out the folly of the powerful for putting their faith in stuff instead of Paladine!  It is all win-win-win!
+
+You did get one interesting revelation or command from Paladine recently.  You asked if Paladine had any idea when the next job was.  "SOON."  Great, great.  Any enigmatic advice?  "DESTROY THE THING.  IT IS THE OPPOSITE OF LOVE."
+
+Cool.  Cool.  You assume it will be clear what the thing is when the time comes?
+(Just in case Gardius/Gardia would not be cool with destroying "the thing," you haven't told your fellow adventurers about this revelation.)
+
+About the others - 
+
+Gardius/Gardia Artill - Very cool captain of your adventuring band, the Silent Hand.  Only, a bit uptight sometimes, like not letting you handle the money so that capitalism can run its stupid course, or spelling out exactly what you should do on an errand as if you were 6.  Hey, you're way older than that!  But Gardius/Gardia is brave and tries to do right by you, and they got you this gig in the first place, which has been really great for your congregation, insofar as all the gold you give them presumably helps them realize how worthless it ultimately is compared to love.  Oh, right, and Gardius/Gardia is always jealous of their older brother's company, the Victorious Hand.  Cornellius Artill always seems to be one step ahead.  Hey, why does it have to be a competition, though?  If Cornelius beats us, at least he's happy.
+
+One Six Nine - The autognome who acts as spelljammer (pilot) for the Silent Hand creeps you out.  Whenever you tell One Six Nine that Paladine loves robots, too, One Six Nine responds with a murderous glare and a retort like, "Acknowledged, meat."  It is definitely made some kind of deal with a dark power - that is abundantly clear - but it doesn't seem to be totally evil (yet?) according to your detection spells.  (But Raistlin eventually traded his red robes for black, so, seems like something to keep tabs on.)  You asked Paladine whether you had to love One Six Nine too, even though he's a robot, and he said "YES," so that's pretty clear.  But, ugh.  It's hard to love a murderbot.
